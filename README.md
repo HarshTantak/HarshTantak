@@ -1,6 +1,11 @@
 # 🚀 Welcome to My GitHub Profile!
 
-Hi there! I'm **Harsh Tantak**, a data science graduate student passionate about leveraging data to solve real-world problems. With hands-on experience in machine learning, NLP, and AI, I build scalable applications and insightful dashboards. I'm currently pursuing an M.Sc in Statistics and Data Science at NMIMS Mumbai.
+Hey there! I'm **Harsh Tantak** — a data-driven problem solver with a passion for building scalable AI systems and actionable analytics. 
+
+With hands-on experience across LLMs, GNNs, and full-stack ML pipelines, I thrive at the intersection of data, code, and creativity. Currently pursuing my M.Sc. in Statistics and Data Science at NMIMS Mumbai, I'm on a mission to turn complex data into powerful outcomes.
+
+Let’s build something meaningful. 🚀
+
 
 ---
 
@@ -14,6 +19,15 @@ Hi there! I'm **Harsh Tantak**, a data science graduate student passionate about
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
+### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</p>
+
 ### 📊 Data & Visualization
 <p align="left">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
@@ -24,6 +38,9 @@ Hi there! I'm **Harsh Tantak**, a data science graduate student passionate about
 ### 🤖 AI & Machine Learning
 <p align="left">
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF0000?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=spacy&logoColor=white" />
   <img src="https://img.shields.io/badge/Graph%20Neural%20Networks-1f425f?style=for-the-badge" />
 </p>
@@ -33,16 +50,8 @@ Hi there! I'm **Harsh Tantak**, a data science graduate student passionate about
 ## 🧠 Recent Projects
 
 - 🎯 [**SchemeSeva**](https://github.com/HarshTantak/SchemeSeva) — AI-based welfare scheme recommender using LLMs, TF-IDF, Selenium, and PyAudio.
-- 💊 [**Drug Efficacy RWE Model**](https://github.com/HarshTantak/Drug-Efficacy-RWE) — XGBoost & IPTW for causal inference in real-world asthma treatment data.
-- 💳 [**Credit Card Recommender System**](https://github.com/HarshTantak/CreditCardRecommendation) — Full-stack ML pipeline with fraud detection (XGBoost + GNN) and collaborative filtering.
-
----
-
-## 📌 Pinned Repositories
-
-[![SchemeSeva](https://github-readme-stats.vercel.app/api/pin/?username=HarshTantak&repo=SchemeSeva&theme=radical)](https://github.com/HarshTantak/SchemeSeva)
-[![Drug Efficacy RWE](https://github-readme-stats.vercel.app/api/pin/?username=HarshTantak&repo=Drug-Efficacy-RWE&theme=radical)](https://github.com/HarshTantak/Drug-Efficacy-RWE)
-[![Credit Card Recommendation](https://github-readme-stats.vercel.app/api/pin/?username=HarshTantak&repo=CreditCardRecommendation&theme=radical)](https://github.com/HarshTantak/CreditCardRecommendation)
+- 💊 [**Drug Efficacy RWE Model**](https://github.com/HarshTantak/Drug-Efficacy-Analysis-Using-Real-World-Evidence) — XGBoost & IPTW for causal inference in real-world asthma treatment data.
+- 💳 [**Credit Card Recommender System**](https://github.com/HarshTantak/Credit-Card-Based-Recommendation-System) — Full-stack ML pipeline with fraud detection (XGBoost + GNN) and collaborative filtering.
 
 ---
 
@@ -50,7 +59,6 @@ Hi there! I'm **Harsh Tantak**, a data science graduate student passionate about
 
 - 🥇 Top 10 Finalist – SMART AMI Hackathon 2025
 - 🥈 Final 25 – FedEx Smart Hackathon @ IIT Madras
-- 💬 IELTS Score: 7.5 Bands (7+ in Speaking)
 
 ---
 
