@@ -1,6 +1,6 @@
 # 🚀 Welcome to My GitHub Profile!
 
-Hey there! I'm **Harsh Tantak** — a data-driven problem solver with a passion for building scalable AI systems and actionable analytics. 
+Hey there! I'm **Harsh Tantak**  a data-driven problem solver with a passion for building scalable AI systems and actionable analytics. 
 
 With hands-on experience across LLMs, GNNs, and full-stack ML pipelines, I thrive at the intersection of data, code, and creativity. Currently pursuing my M.Sc. in Statistics and Data Science at NMIMS Mumbai, I'm on a mission to turn complex data into powerful outcomes.
 
