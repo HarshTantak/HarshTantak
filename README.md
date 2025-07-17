@@ -46,9 +46,10 @@
 ---
 
 <h3 align="left">🏅 Achievements</h3>
+
 - 🥇 Top 10 – SMART AMI Hackathon 2025  
 - 🥈 Final 25 – FedEx Smart Hackathon @ IIT Madras  
-- 🧠 Most Innovative Concept Winner – WOW Momos! Code Marathon 2025 
+- 🧠 Most Innovative Concept Winner – WOW Momos! Code Marathon 2025  
 
 ---
 
