@@ -1,72 +1,67 @@
-# 🚀 Welcome to My GitHub Profile!
+<h1 align="center">Hi 👋, I'm Harsh Tantak</h1>
+<h3 align="center">A data-driven problem solver and AI enthusiast from India</h3>
 
-Hey there! I'm **Harsh Tantak**  a data-driven problem solver with a passion for building scalable AI systems and actionable analytics. 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HarshTantak&label=Profile%20views&color=0e75b6&style=flat" alt="HarshTantak" /> </p>
 
-With hands-on experience across LLMs, GNNs, and full-stack ML pipelines, I thrive at the intersection of data, code, and creativity. Currently pursuing my M.Sc. in Statistics and Data Science at NMIMS Mumbai, I'm on a mission to turn complex data into powerful outcomes.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HarshTantak" alt="HarshTantak" /></a> </p>
 
-Let’s build something meaningful. 🚀
-
+- 🔭 I’m currently working on **AI-powered financial tools**  
+- 🌱 Learning more about **LLMs, GNNs, and advanced analytics**  
+- 👯 I’m open to collaborating on **real-world ML/AI applications**  
+- 🤝 I’m looking for help with **scalable MLOps practices**  
+- 📫 Reach me at **htantak@gmail.com**  
+- 📄 [Check out my resume](https://drive.google.com/file/d/1zgbXMZZIW1KeU3hj1Or_BWMzkTEdP5U4/view)
 
 ---
 
-## 🧰 Tech Stack
-
-### 💻 Programming & Tools
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-</p>
-
-### ☁️ Cloud & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
-### 📊 Data & Visualization
-<p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-</p>
-
-### 🤖 AI & Machine Learning
-<p align="left">
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF0000?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=spacy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Graph%20Neural%20Networks-1f425f?style=for-the-badge" />
+<a href="https://linkedin.com/in/harsh-tantak-4097431b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh tantak" height="30" width="40" /></a>
+<a href="https://instagram.com/harsh.tantak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsh.tantak" height="30" width="40" /></a>
 </p>
 
 ---
 
-## 🧠 Recent Projects
-
-- 🎯 [**SchemeSeva**](https://github.com/HarshTantak/SchemeSeva) — AI-based welfare scheme recommender using LLMs, TF-IDF, Selenium, and PyAudio.
-- 💊 [**Drug Efficacy RWE Model**](https://github.com/HarshTantak/Drug-Efficacy-Analysis-Using-Real-World-Evidence) — XGBoost & IPTW for causal inference in real-world asthma treatment data.
-- 💳 [**Credit Card Recommender System**](https://github.com/HarshTantak/Credit-Card-Based-Recommendation-System) — Full-stack ML pipeline with fraud detection (XGBoost + GNN) and collaborative filtering.
-
----
-
-## 🏆 Achievements
-
-- 🥇 Top 10 Finalist – SMART AMI Hackathon 2025
-- 🥈 Final 25 – FedEx Smart Hackathon @ IIT Madras
-
----
-
-## 📫 Let's Connect
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/harsh-tantak-4097431b8/)
-- 💼 [Resume](https://drive.google.com/file/d/1zgbXMZZIW1KeU3hj1Or_BWMzkTEdP5U4/view)
-- 📧 Email: htantak@gmail.com
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/></a>
+  <br/>
+  <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/GNN-1f425f?style=for-the-badge" /></a>
+</p>
 
 ---
 
-*Passionate about applying data science for social good and real-world impact. Let’s build something meaningful!*
+<h3 align="left">Notable Projects:</h3>
+
+- 🚀 [**SchemeSeva**](https://github.com/HarshTantak/SchemeSeva) – AI-driven recommendation system for welfare schemes using LLMs  
+- 💳 [**Credit Card Recommender System**](https://github.com/HarshTantak/Credit-Card-Based-Recommendation-System) – ML pipeline + GNN + fraud detection  
+- 💊 [**Drug Efficacy RWE**](https://github.com/HarshTantak/Drug-Efficacy-Analysis-Using-Real-World-Evidence) – Causal inference with XGBoost & IPTW
+
+---
+
+<h3 align="left">🏅 Achievements</h3>
+
+- 🥇 Top 10 – SMART AMI Hackathon 2025  
+- 🥈 Final 25 – FedEx Smart Hackathon @ IIT Madras  
+
+---
+
+<h3 align="left">GitHub Stats:</h3>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HarshTantak&show_icons=true&locale=en&layout=compact" alt="HarshTantak" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HarshTantak&show_icons=true&locale=en" alt="HarshTantak" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshTantak&" alt="HarshTantak" /></p>
+
+---
+
+*Thanks for stopping by! Let’s turn data into impact. 🚀*
