@@ -8,16 +8,14 @@
 - 🔭 I’m currently working on **AI-powered financial tools**  
 - 🌱 Learning more about **LLMs, GNNs, and advanced analytics**  
 - 👯 I’m open to collaborating on **real-world ML/AI applications**  
-- 🤝 I’m looking for help with **scalable MLOps practices**  
 - 📫 Reach me at **htantak@gmail.com**  
-- 📄 [Check out my resume](https://drive.google.com/file/d/1zgbXMZZIW1KeU3hj1Or_BWMzkTEdP5U4/view)
+- 📄 [Check out my resume](https://drive.google.com/file/d/1phX7awJwIKxbpC-EZkpHS4o8nldvH1LM/view?usp=sharing)
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/harsh-tantak-4097431b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh tantak" height="30" width="40" /></a>
-<a href="https://instagram.com/harsh.tantak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsh.tantak" height="30" width="40" /></a>
 </p>
 
 ---
@@ -48,9 +46,9 @@
 ---
 
 <h3 align="left">🏅 Achievements</h3>
-
 - 🥇 Top 10 – SMART AMI Hackathon 2025  
 - 🥈 Final 25 – FedEx Smart Hackathon @ IIT Madras  
+- 🧠 Most Innovative Concept Winner – WOW Momos! Code Marathon 2025 
 
 ---
 
