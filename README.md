@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harsh Tantak</h1>
 <h3 align="center">A data-driven problem solver and AI enthusiast from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=HarshTantak&label=Profile%20views&color=0e75b6&style=flat" alt="HarshTantak" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HarshTantak" alt="HarshTantak" /></a> </p>
+<p align="center">
+  Data science graduate student passionate about building real-world AI systems using LLMs, LangChain, and graph-based models. Currently developing AI-powered tools for SQL generation, summarization, and intelligent automation in analytics workflows.
+</p>
 
 - 🔭 I’m currently working on **AI-powered financial tools**  
 - 🌱 Learning more about **LLMs, GNNs, and advanced analytics**  
