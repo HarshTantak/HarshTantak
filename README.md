@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Tantak</h1>
-<h3 align="center">A data-driven problem solver and AI enthusiast from India</h3>
+<h3 align="left">A data-driven problem solver,AI enthusiast and Data science graduate student passionate about building real-world AI systems using LLMs, LangChain, and graph-based models. Currently developing AI-powered tools for SQL generation, summarization, and intelligent automation in analytics workflows.</h3>
 
-<p align="center">
-  Data science graduate student passionate about building real-world AI systems using LLMs, LangChain, and graph-based models. Currently developing AI-powered tools for SQL generation, summarization, and intelligent automation in analytics workflows.
-</p>
 
 - 🔭 I’m currently working on **AI-powered financial tools**  
 - 🌱 Learning more about **LLMs, GNNs, and advanced analytics**  
